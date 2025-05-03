@@ -1,0 +1,4 @@
+id=miscs
+name=Enable Vulkan
+author=AKM_04
+description=Sets default graphics renderer to Vulcan instead of OpenGL

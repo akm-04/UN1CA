@@ -1,0 +1,2 @@
+# Set default graphics renderer to Vulcan instead of OpenGL
+debug.hwui.renderer=skiavk
