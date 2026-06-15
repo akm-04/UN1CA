@@ -16,7 +16,7 @@
 #
 # Device configuration file for Galaxy Tab S8 Ultra Wi-Fi
 TARGET_NAME="Galaxy Tab S8 Ultra (Wi-Fi)"
-TARGET_CODENAME="gts8uwifi"
+TARGET_CODENAME="gts8u"
 TARGET_ASSERT_MODEL=""
 
 TARGET_FIRMWARE="SM-S9180/TGY/351390052079597"
