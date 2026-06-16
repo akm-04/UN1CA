@@ -1,0 +1,5 @@
+id=OneUI-5.1_Fingerprint-libs
+name=OneUI 5.1 Fingerprint BAuth Port
+version=1.0
+author=akm
+description=Ports the OneUI 5.1.1 libbauthserver to bypass the Android 12 Keystore lock.
