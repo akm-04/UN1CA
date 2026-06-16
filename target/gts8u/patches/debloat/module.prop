@@ -1,0 +1,4 @@
+id=gts8u_debloat
+name=gts8u debloat
+author=AKM
+description=Removes heavy apps to fit within F2FS limits.
