@@ -95,6 +95,7 @@ GET_CMAKE_FLAGS()
     FLAGS+="-DCMAKE_SYSTEM_NAME=\"$(uname -s)\" "
     FLAGS+="-DCMAKE_SYSTEM_PROCESSOR=\"$(uname -m)\" "
     FLAGS+="-DCMAKE_BUILD_TYPE=\"Release\" "
+    FLAGS+="-DCMAKE_CXX_FLAGS=\"-DFMT_CONSTEVAL=\" "
     if type ccache &> /dev/null; then
         FLAGS+="-DCMAKE_C_COMPILER_LAUNCHER=\"ccache\" "
         FLAGS+="-DCMAKE_CXX_COMPILER_LAUNCHER=\"ccache\" "
